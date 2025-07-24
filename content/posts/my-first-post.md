@@ -6,6 +6,6 @@ title = 'My First Post'
 
 ## Introduction
 
-This is **bold** text, and this is *emphasized* text.
+**bold** Hi, I am *emphasized* Pengyu Chen.
 
 Visit the [Hugo](https://gohugo.io) website!
