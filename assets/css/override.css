@@ -1,0 +1,10 @@
+/* Test override */
+body {
+    background-color: pink !important; /* for testing */
+  }
+  
+  /* Remove round avatar */
+  .profile-mode .profile-inner img {
+    border-radius: 0 !important;
+  }
+  

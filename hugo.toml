@@ -1,4 +1,0 @@
-baseURL = 'https://pengyuchen.com/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'

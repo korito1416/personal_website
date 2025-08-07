@@ -1,0 +1,9 @@
+/* Remove rounded avatar */
+.profile-mode .profile-inner img {
+  border-radius: 0 !important;
+}
+
+/* Optional test */
+body {
+  background-color: pink !important;
+}

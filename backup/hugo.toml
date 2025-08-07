@@ -1,0 +1,84 @@
+title = "Pengyu Chen"
+baseURL = "https://pengyuchen.com/"
+languageCode = "en-us"
+theme = "ananke"
+resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+[pagination]
+  pagerSize = 3
+
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+[languages.en]
+title = "Ananke"
+weight = 1
+contentDir = "content/en"
+# languageDirection = 'rtl' for Right-To-Left languages
+#[languages.fr]
+#title = "Ananke Fr"
+#weight = 2
+#contentDir = "content/fr"
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[params]
+text_color = ""
+author = ""
+favicon = ""
+site_logo = ""
+description = "The last theme you'll ever need. Maybe."
+# choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+background_color_class = "bg-black"
+recent_posts_number = 3
+
+
+  [params.navbar]
+    align = "ms-auto"
+    brandName = "Pengyu Chen"
+    disableSearch = false
+    [params.navbar.stickyNavBar]
+      enable = true
+      showOnScrollUp = true
+    enableSeparator = false
+    [params.navbar.menus]
+      disableAbout = false
+      disableExperience = false
+      disableEducation = false
+      disableProjects = false
+      disableAchievements = false
+      disableContact = false
+
+  [params.font]
+    fontSize = "1rem"
+    fontWeight = 400
+    lineHeight = 1.5
+    textAlign = "left"
+
+  [params.hero]
+    enable = true
+    intro = "Hi, I'm"
+    title = "Pengyu Chen"
+    subtitle = "PhD Student in Economics"
+    content = "My research interests include macroeconomics, financial economics, and uncertainty."
+    image = "/images/profile.jpg"
+    [params.hero.bottomImage]
+      enable = true
+    [params.hero.button]
+      enable = true
+      name = "CV"
+      url = "/cv"
+      download = false
+      newPage = true
+    [[params.hero.socialLinks.fontAwesomeIcons]]
+      icon = "fab fa-github"
+      url = "https://github.com/pengyuchen"
+    [[params.hero.socialLinks.fontAwesomeIcons]]
+      icon = "fab fa-linkedin"
+      url = "https://linkedin.com/in/pengyuchen"
