@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My First Post on Pengyu Chen</title>
-    <link>http://localhost:62489/research/my-first-post/</link>
+    <link>https://pengyuchen.com/research/my-first-post/</link>
     <description>Recent content in My First Post on Pengyu Chen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:62489/research/my-first-post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pengyuchen.com/research/my-first-post/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pengyu Chen</title>
-    <link>http://localhost:62489/</link>
+    <link>https://pengyuchen.com/</link>
     <description>Recent content on Pengyu Chen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Aug 2025 16:49:01 +0800</lastBuildDate>
-    <atom:link href="http://localhost:62489/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pengyuchen.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:62489/research/my-first-post/</link>
+      <link>https://pengyuchen.com/research/my-first-post/</link>
       <pubDate>Wed, 06 Aug 2025 16:49:01 +0800</pubDate>
-      <guid>http://localhost:62489/research/my-first-post/</guid>
+      <guid>https://pengyuchen.com/research/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
   </channel>

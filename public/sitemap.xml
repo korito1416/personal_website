@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:62489/</loc>
+    <loc>https://pengyuchen.com/</loc>
     <lastmod>2025-08-06T16:49:01+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:62489/research/my-first-post/</loc>
+    <loc>https://pengyuchen.com/research/my-first-post/</loc>
     <lastmod>2025-08-06T16:49:01+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:62489/research/</loc>
+    <loc>https://pengyuchen.com/research/</loc>
     <lastmod>2025-08-06T16:49:01+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:62489/categories/</loc>
+    <loc>https://pengyuchen.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:62489/tags/</loc>
+    <loc>https://pengyuchen.com/tags/</loc>
   </url>
 </urlset>
